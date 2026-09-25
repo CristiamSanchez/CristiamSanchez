@@ -64,13 +64,26 @@ I'm particularly interested in building reliable software solutions using modern
 
 ### 🧪 Testing & QA
 
-<p align="left">
 <a href="https://www.selenium.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
+    width="40"
+    height="40"
+    alt="Selenium"
+    title="Selenium"
+  />
 </a>
+
 <a href="https://playwright.dev/">
-<img src="https://playwright.dev/img/logos/playwright-logo.svg" width="40" height="40" alt="Playwright"/>
+  <img
+    src="https://cdn.simpleicons.org/playwright"
+    width="40"
+    height="40"
+    alt="Playwright"
+    title="Playwright"
+  />
 </a>
+
 <a href="https://www.postman.com/">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
 </a>
