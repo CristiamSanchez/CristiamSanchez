@@ -62,31 +62,14 @@ I'm particularly interested in building reliable software solutions using modern
 </a>
 </p>
 
+<p align="left">
+
 ### 🧪 Testing & QA
 
-<a href="https://www.selenium.dev/">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
-    width="40"
-    height="40"
-    alt="Selenium"
-    title="Selenium"
-  />
-</a>
+[![Selenium](https://img.shields.io/badge/Selenium-Testing-43B02A?style=for-the-badge)](https://www.selenium.dev/)
+[![Playwright](https://img.shields.io/badge/Playwright-E2E%20Testing-2EAD33?style=for-the-badge)](https://playwright.dev/)
+[![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge)](https://www.postman.com/)
 
-<a href="https://playwright.dev/">
-  <img
-    src="https://cdn.simpleicons.org/playwright"
-    width="40"
-    height="40"
-    alt="Playwright"
-    title="Playwright"
-  />
-</a>
-
-<a href="https://www.postman.com/">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
-</a>
 </p>
 
 ### ☁️ DevOps & Cloud
